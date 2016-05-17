@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sdk_color_theme">#0b87d9</color>
+    <color name="sdk_color_theme_pressed">#2468a2</color>
+    <color name="sdk_color_theme_dark">#dce6fb</color>
+    <color name="sdk_color_theme_dark_pressed">#b9c4db</color>
+    <color name="sdk_color_theme_light">#bdd1f9</color>
+    <color name="sdk_color_theme_light_pressed">#a0b5df</color>
+    <color name="sdk_color_theme_assisted">#034876</color>
+</resources>
